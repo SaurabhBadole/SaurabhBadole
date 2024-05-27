@@ -1,8 +1,7 @@
 # About Me🙋‍♂️:
 Hello! I'm Saurabh, a **former Management Consultant Senior Analyst turned AI specialist**. After gaining invaluable experience in Data Analysis & Synthesis Coupled with Decision Management, I pursued a PGD in Artificial Intelligence at CDAC.<br><br>I am passionate about Generative AI Research that pushes the boundaries of technology. My expertise includes **Machine Learning, Deep Learning, Natural Language Processing, Gen AI and Cloud Computing.** I also keep myself updated with the latest tech trends and advancements to stay ahead in the field. <br><br>Let's connect and explore opportunities to collaborate on groundbreaking AI projects! You can reach me via **[LinkedIn](https://www.linkedin.com/in/saurabhbadole777/)**. and say hello :)
 
-![vsgif_com_cyberpunk-gif_ 3556745](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/a77ec15c-fc61-4797-bd8a-c9ddfb05e2c2)
-
+![71358d_6921496d8c974d02890a259e868aba55~mv2](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/7df57666-4c24-48cb-8317-a03c92e67c5f)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurabhbadole777/)
@@ -20,7 +19,11 @@ Hello! I'm Saurabh, a **former Management Consultant Senior Analyst turned AI sp
 
 
 
-[![Attention is All You Need](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/64b197de-ecc9-44d7-aaa1-51e5bbbc2f45)](https://www.kaggle.com/discussions/general/493003)  <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/98/47/40/9847407142d916accca281fd09962f5f.gif">
+
+
+
+
+[![Attention is All You Need (1)](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/e827d36a-b233-4062-b081-60b0ae47f8ab)](https://www.kaggle.com/discussions/general/493003)  ![vsgif_com_cyberpunk-gif_ 3556745 (3)](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/f8a2c9b3-46b3-4b46-9d2b-98a607de6814) ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39382f34372f34302f39383437343037313432643931366163636361323831666430393936326635662e676966 (1)](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/60c824dd-c2ba-42d9-a106-e19afdfa5fc7)
 
 ## My Kaggle Blog Posts
 
