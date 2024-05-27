@@ -17,14 +17,6 @@ Hello! I'm Saurabh, a **former Management Consultant Senior Analyst turned AI sp
 
 ---
 
-
-
-
-
-
-
-[![Attention is All You Need (1)](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/e827d36a-b233-4062-b081-60b0ae47f8ab)](https://www.kaggle.com/discussions/general/493003)  ![vsgif_com_cyberpunk-gif_ 3556745 (3)](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/f8a2c9b3-46b3-4b46-9d2b-98a607de6814) ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39382f34372f34302f39383437343037313432643931366163636361323831666430393936326635662e676966 (1)](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/60c824dd-c2ba-42d9-a106-e19afdfa5fc7)
-
 ## My Kaggle Blog Posts
 
 Here are some of my recent blog posts on Kaggle, where I explore various topics in AI especially Gen AI:
@@ -33,6 +25,14 @@ Here are some of my recent blog posts on Kaggle, where I explore various topics 
 - **[Ever Wonder How Prompts Are Interconnected in Series?](https://www.kaggle.com/discussions/general/493866)**
 - **[Exploring the ReAct Revolution](https://www.kaggle.com/discussions/general/494233)**
 - **[Getting Started with BertViz](https://www.kaggle.com/discussions/general/496770)**
+
+
+
+
+
+[![Attention is All You Need (1)](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/e827d36a-b233-4062-b081-60b0ae47f8ab)](https://www.kaggle.com/discussions/general/493003)  ![vsgif_com_cyberpunk-gif_ 3556745 (3)](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/f8a2c9b3-46b3-4b46-9d2b-98a607de6814) ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39382f34372f34302f39383437343037313432643931366163636361323831666430393936326635662e676966 (1)](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/60c824dd-c2ba-42d9-a106-e19afdfa5fc7)
+
+
 
 ---
 
