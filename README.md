@@ -1,5 +1,12 @@
 # About Me🙋‍♂️:
-Hello! I'm Saurabh, a **former Senior Analyst Consultant turned AI specialist**. After gaining invaluable experience in Data Analysis & Synthesis coupled with Decision Management, I pursued a PGD in Artificial Intelligence at CDAC.<br><br>I am passionate about Generative AI Research that pushes the boundaries of technology. My expertise includes **Machine Learning, Deep Learning, Natural Language Processing, Gen AI and Cloud Computing.** I also keep myself updated with the latest tech trends and advancements to stay ahead in the field. <br><br>Let's connect and explore opportunities to collaborate on groundbreaking AI projects! You can reach me via **[LinkedIn](https://www.linkedin.com/in/saurabhbadole777/)**. and say hello :)
+Hello! I'm Saurabh, an AI Enthusiast with a strong Engineering background and a former Business Strategy Consultant now specializing in AI. After acquiring invaluable experience in Data Analysis and Synthesis coupled with Strategic Decision Management, I'm deepening my expertise in Artificial Intelligence.
+
+Currently Pursuing MSc in Quant & AI | AI @ CDAC’23 | B.E. @ University of Mumbai
+
+<br><br>I am passionate about Generative AI Research that pushes the boundaries of technology. My expertise includes **Machine Learning, Deep Learning, Natural Language Processing, Gen AI and Cloud Computing.** I also keep myself updated with the latest tech trends and advancements to stay ahead in the field. <br><br>Let's connect and explore opportunities to collaborate on groundbreaking AI projects! You can reach me via **[LinkedIn](https://www.linkedin.com/in/saurabhbadole777/)**. and say hello :)
+
+I also love sharing insights through my blogs!
+Check out my most upvoted one "[Why Attention Is All You Need?](https://www.kaggle.com/discussions/general/493003)"
 
 ![71358d_6921496d8c974d02890a259e868aba55~mv2](https://github.com/SaurabhBadole/SaurabhBadole/assets/132877393/7df57666-4c24-48cb-8317-a03c92e67c5f)
 
