@@ -1,7 +1,7 @@
 # About Me🙋‍♂️:
 Hello! I'm Saurabh, an AI Enthusiast with a strong Engineering background and a former Business Strategy Consultant now specializing in AI. After acquiring invaluable experience in Data Analysis and Synthesis coupled with Strategic Decision Management, I'm deepening my expertise in Artificial Intelligence.
 
-Currently Pursuing MSc in Quant & AI | AI @ CDAC’23 | B.E. @ University of Mumbai
+Currently Pursuing **MSc in Quant & AI** | **AI @ CDAC’23** | **B.E. @ University of Mumbai**
 
 <br><br>I am passionate about Generative AI Research that pushes the boundaries of technology. My expertise includes **Machine Learning, Deep Learning, Natural Language Processing, Gen AI and Cloud Computing.** I also keep myself updated with the latest tech trends and advancements to stay ahead in the field. <br><br>Let's connect and explore opportunities to collaborate on groundbreaking AI projects! You can reach me via **[LinkedIn](https://www.linkedin.com/in/saurabhbadole777/)**. and say hello :)
 
